@@ -3,9 +3,22 @@ layout: page
 title: Welcome
 show-avatar: true
 subtitle: ... to my personal website and blog.
-<!-- bigimg: "/img/head/.jpg" -->
 use-site-title: true
 ---
+
+<div class="posts-list">
+  {% for post in paginator.posts %}
+  <article class="post-preview">
+    <a href="{{ post.url | relative_url }}">
+	  <h2 class="post-title">{{ post.title }}</h2>
+
+	  {% if post.subtitle %}
+	  <h3 class="post-subtitle">
+	    {{ post.subtitle }}
+	  </h3>
+	  {% endif %}
+    </a>
+
 <h1 class="text-center">Recent Posts</h1>
 <div class="spacer"></div>
 

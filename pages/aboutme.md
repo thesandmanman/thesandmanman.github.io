@@ -11,7 +11,7 @@ My name is Sandeep S and I am from [Bengaluru, India](https://www.bengaluru.com/
 #### <i class="fa fa-code" aria-hidden="true"></i> Scripting and Programming
 Python &bull; 
 JavaScript &bull;
-PHP &bull; 
+PHP  
 ... 
 
 #### <i class="fa fa-terminal" aria-hidden="true"></i> Operating Systems

@@ -14,7 +14,7 @@ My name is Sandeep S and I am from [Bengaluru, India](https://www.bengaluru.com/
 ... 
 #### <i class="fa fa-terminal" aria-hidden="true"></i> Operating Systems
 &bull; Microsoft Windows 
-&bull; Ubuntu
+&bull; Ubuntu <br/>
 ...
 #### <i class="fa fa-cloud" aria-hidden="true"></i> Cloud
 &bull; Oracle Cloud Infrastructure Foundations

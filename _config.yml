@@ -1,10 +1,10 @@
 # --- General options --- #
 
 # Name of website
-title: Sandman's blog
+title: Sandman's website
 
 # Short description of your site
-description: A log of thoughts, technical stuff, philosophy and anime
+description: A log of thoughts, technical stuff, philosophy and anime.
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl

@@ -3,30 +3,30 @@ layout: page
 permalink: "/pages/aboutme"
 title: About me
 ---
-<img src="/img/aboutme.jpg">
+
 My name is Sandeep S and I am from [Bengaluru, India](https://www.bengaluru.com/).
 
 ### <i class="fa fa-cubes" aria-hidden="true"></i> Skills
 
 #### <i class="fa fa-code" aria-hidden="true"></i> Scripting and Programming
-Python &bull; 
-JavaScript &bull;
-PHP  
+&bull; Python 
+&bull; JavaScript 
+&bull; PHP  
 ... 
 
 #### <i class="fa fa-terminal" aria-hidden="true"></i> Operating Systems
-Microsoft Windows &bull;
-Ubuntu &bull;
+&bull; Microsoft Windows 
+&bull; Ubuntu
 
 #### <i class="fa fa-cloud" aria-hidden="true"></i> Cloud
 Oracle Cloud Infrastructure Foundations
 
 #### <i class="fa fa-gears" aria-hidden="true"></i> Skills
-MySQL &bull;
-Microsoft Office &bull;
+&bull; MySQL
+&bull; Microsoft Office Tools
 
 
- 
+
 <br/>
 <br/>
 ### <i class="fa fa-briefcase" aria-hidden="true"></i> Experience

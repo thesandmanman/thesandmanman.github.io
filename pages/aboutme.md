@@ -16,7 +16,7 @@ My name is Sandeep S and I am from [Bengaluru, India](https://www.bengaluru.com/
 &bull; Ubuntu <br/>
 #### <i class="fa fa-cloud" aria-hidden="true"></i> Cloud
 &bull; Oracle Cloud Infrastructure Foundations
-#### <i class="fa fa-gears" aria-hidden="true"></i> Skills
+#### <i class="fa fa-gears" aria-hidden="true"></i> Other Skills
 &bull; MySQL
 &bull; Microsoft Office Tools
 <br/><br/>
@@ -43,14 +43,14 @@ My responsibilities included **creating an inventory management system** and **a
 I completed my **computer science** undergraduate degreee from **MVJ College of Engineering** (2016-2020).
 <br/><br/>
 
-### <i class="fa fa-briefcase" aria-hidden="true"></i> Certifications and Courses
+### <i class="fa fa-graduation-cap" aria-hidden="true"></i> Certifications and Courses
 &bull; Oracle Cloud Infrastructure Foundations 2020 Associate (1Z0-1085-20) <br/>
 &bull; Infosys Campus Connect Foundation Program - Python, RDBMS <br/>
 &bull; Python for Data Science - CognitiveAI <br/>
 &bull; The Complete PHP Full Stack Web Developer Bootcamp
 <br/><br/>
 
-### <i class="fa fa-graduation-cap" aria-hidden="true"></i> Co-curricular activities
+### <i class="fa fa-cog" aria-hidden="true"></i> Co-curricular activities
 &bull; Winner of Smart India Hackathon (SIH) Hardware Edition 2019 in IIT Indore <br/>
 &bull; Attended Ethical Hacking workshop conducted in IIT Madras <br/>
 &bull; B certificate holder in NCC <br/>
@@ -58,7 +58,7 @@ I completed my **computer science** undergraduate degreee from **MVJ College of 
 &bull; Health Advisor at Star Health Insurance
 <br/><br/>
 
-### <i class="fa fa-graduation-cap" aria-hidden="true"></i> Hobbies
+### <i class="fa fa-hand-peace-o" aria-hidden="true"></i> Hobbies
 &bull; Coding productivity apps and posting them on GitHub <br/>
 &bull; Cooking <br/>
 &bull; Collecting books <br/>
@@ -66,5 +66,5 @@ I completed my **computer science** undergraduate degreee from **MVJ College of 
 &bull; Manga and anime 
 <br/><br/>
 
-### <i class="fa fa-graduation-cap" aria-hidden="true"></i> Languages known
+### <i class="fa fa-language" aria-hidden="true"></i> Languages known
 English, Hindi, Malayalam, Kannada, Tamil, French.

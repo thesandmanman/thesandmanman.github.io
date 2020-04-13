@@ -11,7 +11,7 @@ description: A log of thoughts, technical stuff, philosophy and anime
 # *** If you're not sure what this mean, then leave this section as it is. Only modify the url and baseurl if you know what you're doing!***
 
 # url is the the website domain URL without a trailing slash
-#url: "https://example.com"
+url: "https://thesandmanman.github.io"
 
 # baseurl should be an empty string
 #baseurl: ""
@@ -20,8 +20,11 @@ description: A log of thoughts, technical stuff, philosophy and anime
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
-  Author's home: "https://github.com/thesandmanman"
+  Blog:
+    - Posts: "blog"
+    - Tags: "tags"
+  About Me: "pages/aboutme"
+nav-search: "pages/search"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -82,10 +85,10 @@ social-network-links:
 #  yelp: yourname
 
 # Select which share links to show in posts
-share-links-active:
-  twitter: true
+# share-links-active:
+#   twitter: true
 #   facebook: true
-  linkedin: true
+#   linkedin: true
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
@@ -121,7 +124,7 @@ url-pretty: "thesandmanman.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 # To use Staticman comments, fill in repository, branch, and endpoint
 staticman:
-  repository : thesandmanman/thesandmanman.github.io # GitHub username/repository eg. "daattali/beautiful-jekyll"
+  repository : # GitHub username/repository eg. "daattali/beautiful-jekyll"
   branch     : master # If you're not using `master` branch, then you also need to update the `branch` parameter in `staticman.yml`
   endpoint   : # URL of your own deployment, with a trailing slash (will fallback to a public GitLab instance) eg. https://<your-api>/v3/entry/github/
   reCaptcha:
@@ -163,6 +166,7 @@ markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
 paginate: 5
+paginate_path: "/blog/page:num/"
 
 kramdown:
   input: GFM

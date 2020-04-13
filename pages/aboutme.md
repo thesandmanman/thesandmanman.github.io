@@ -59,11 +59,11 @@ I completed my **computer science** undergraduate degreee from **MVJ College of 
 <br/><br/>
 
 ### <i class="fa fa-book" aria-hidden="true"></i> Hobbies
-&bull; Coding productivity apps and posting them on GitHub <br/>
+&bull; Coding productivity apps and posting them on [GitHub](https://github.com/thesandmanman) <br/>
 &bull; Cooking <br/>
 &bull; Collecting books <br/>
 &bull; I like many genres of music <br/>
-&bull; Manga and anime 
+&bull; [Manga and anime](https://myanimelist.net/profile/SandmanMan) 
 <br/><br/>
 
 ### <i class="fa fa-language" aria-hidden="true"></i> Languages known

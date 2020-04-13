@@ -58,7 +58,7 @@ I completed my **computer science** undergraduate degreee from **MVJ College of 
 &bull; Health Advisor at Star Health Insurance
 <br/><br/>
 
-### <i class="fa fa-hand-peace-o" aria-hidden="true"></i> Hobbies
+### <i class="fa fa-book" aria-hidden="true"></i> Hobbies
 &bull; Coding productivity apps and posting them on GitHub <br/>
 &bull; Cooking <br/>
 &bull; Collecting books <br/>

@@ -4,7 +4,7 @@ permalink: "/pages/aboutme"
 title: About me
 ---
 
-My name is Sandeep S and I am from [Bengaluru, India](https://www.bengaluru.com/).
+My name is Sandeep S and I am from Bengaluru, India.
 
 ### <i class="fa fa-cubes" aria-hidden="true"></i> Skills
 #### <i class="fa fa-code" aria-hidden="true"></i> Scripting and Programming  

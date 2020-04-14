@@ -1,7 +1,7 @@
 ---
 layout: post
 title: First post!
-subtitle: A nwe begining?
+subtitle: A new begining?
 gh-repo: thesandmanman/thesandmanman.github.io
 gh-badge: [star, fork, follow]
 tags: [first]
@@ -17,6 +17,6 @@ tags: [first]
 * I love manga & anime, yeah...
 
 
-Finally, I hope I maintain this blog... if not,"Hey this was your first & last post."
+Finally, I hope I maintain this blog... if not, "Hey this was your first & last post".
 
 >_**Fact**_: You made this blog and many other small projects during COVID-19 lockdown, actually impressed.

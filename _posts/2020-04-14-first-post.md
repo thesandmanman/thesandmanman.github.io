@@ -3,7 +3,7 @@ layout: post
 title: First post!
 ---
 
-## First blog
+## First blog post
 Why did choose to write a public blog?
 * First things first, this blog is going to be like a time capsule of the state of my mind.
 * Since it's publically hosted, I need to take an extra effort in correcting spellings, etc. i.e, there is a scope of self-improvement.

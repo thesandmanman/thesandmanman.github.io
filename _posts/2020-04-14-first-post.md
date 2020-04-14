@@ -1,6 +1,10 @@
 ---
 layout: post
 title: First post!
+subtitle: A nwe begining?
+gh-repo: thesandmanman/thesandmanman.github.io
+gh-badge: [star, fork, follow]
+tags: [first]
 ---
 ### Movtivation to write this public blog?
 * I intend this be a time capsule of the state of my mind (also long for a nostalgic feel later).

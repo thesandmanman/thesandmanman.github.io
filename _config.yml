@@ -100,7 +100,7 @@ url-pretty: "thesandmanman.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 #gtag: ""
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: ""
+google_analytics: "UA-163395691-1"
 
 # Google Tag Manager ID
 #gtm: ""

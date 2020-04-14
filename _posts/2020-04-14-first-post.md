@@ -5,6 +5,7 @@ subtitle: A new begining?
 gh-repo: thesandmanman/thesandmanman.github.io
 gh-badge: [star, fork, follow]
 tags: [first]
+comments: true
 ---
 ### Movtivation to write this public blog?
 * I intend this be a time capsule of the state of my mind (also long for the nostalgic feel later).

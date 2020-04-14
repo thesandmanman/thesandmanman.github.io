@@ -5,12 +5,12 @@ title: First post!
 
 ## First blog post
 Why did choose to write a public blog?
-* First things first, this blog is going to be like a time capsule of the state of my mind.
+* This blog is going to be like a time capsule of the state of my mind, I long for the nostalgic feel.
 * Since it's publically hosted, I need to take an extra effort in correcting spellings, etc. i.e, there is a scope of self-improvement.
 
 What will I be writing about?
 * I will be rambling about my existential crisis and how everything around me is a conspiracy.
-* The working of the human mind has always been intruging, I will write about my learning process so that I can learn later.
+* The working of the human mind has always been intriguing, I will write about my learning proces.
 * Maybe about some technical ideas... Maybe not.
 * I love manga and anime, yeah... I will talk about why I like certain characters and shows, for a 22 year old man to be talking about anime may seem immature to many people, I have a different perspective.
 

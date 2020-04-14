@@ -7,7 +7,7 @@ gh-badge: [star, fork, follow]
 tags: [first]
 ---
 ### Movtivation to write this public blog?
-* I intend this be a time capsule of the state of my mind (also long for a nostalgic feel later).
+* I intend this be a time capsule of the state of my mind (also long for the nostalgic feel later).
 * Since it's publically hosted, extra efforts to be made in correcting spellings & formatting i.e, I see a scope of self-improvement.
 
 ### What will I be writing about?

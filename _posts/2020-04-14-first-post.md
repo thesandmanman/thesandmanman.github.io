@@ -15,4 +15,4 @@ title: First post!
 
 Finally, I hope I maintain this blog... if not,"Hey this was your first & last post."
 
->_**Fact**_: You made this blog and many other small projects during lockdown because of COVID-19, surprised to see this version of myself.
+>_**Fact**_: You made this blog and many other small projects during COVID-19 lockdown, actually impressed.

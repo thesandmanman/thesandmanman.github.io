@@ -11,7 +11,7 @@ description: A log of thoughts, technical stuff, philosophy and anime.
 # *** If you're not sure what this mean, then leave this section as it is. Only modify the url and baseurl if you know what you're doing!***
 
 # url is the the website domain URL without a trailing slash
-url: "https://thesandmanman.github.io"
+url: "https://saandman.github.io"
 
 # baseurl should be an empty string
 #baseurl: ""
@@ -69,7 +69,7 @@ author:
 social-network-links:
   rss: true
   email: "sanndddyyyyy@gmail.com"
-  github: thesandmanman
+  github: saandman
 #   twitter: yourname
 #  reddit: yourname
   linkedin: thesandmanman
@@ -92,7 +92,7 @@ social-network-links:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "thesandmanman.github.io"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "saandman.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 

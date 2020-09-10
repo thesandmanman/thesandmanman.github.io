@@ -2,7 +2,7 @@
 layout: post
 title: First post!
 subtitle: A new begining?
-gh-repo: thesandmanman/thesandmanman.github.io
+gh-repo: saandman/saandman.github.io
 gh-badge: [star, fork, follow]
 tags: [first]
 comments: true

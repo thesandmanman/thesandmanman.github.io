@@ -4,7 +4,7 @@
 title: Sandeep S
 
 # Short description of your site
-description: A log of thoughts, technical stuff, philosophy and anime.
+description: A log of thoughts.
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -68,19 +68,19 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "sanndddyyyyy@gmail.com"
+  email: "snairsandeep1@gmail.com"
   github: saandman
 #   twitter: yourname
 #  reddit: yourname
-  linkedin: thesandmanman
+  linkedin: saandman
 #  xing: yourname
-#  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-#  instagram: deanat78
-#  youtube: user/deanat78
+#  stackoverflow: ""
+#  snapchat: yourname
+#  instagram: yourname
+#  youtube: user/
 #  spotify: yourname
 #  telephone: +14159998888
-#  steam: deanat78
+#  steam: yourname
 #  twitch: yourname
 #  yelp: yourname
 

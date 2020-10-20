@@ -14,8 +14,6 @@ My name is Sandeep S and I am from Bengaluru, India.
 #### <i class="fa fa-terminal" aria-hidden="true"></i> Operating Systems  
 &bull; Microsoft Windows 
 &bull; Ubuntu <br/>
-#### <i class="fa fa-cloud" aria-hidden="true"></i> Cloud  
-&bull; Oracle Cloud Infrastructure Foundations
 #### <i class="fa fa-gears" aria-hidden="true"></i> Other Skills  
 &bull; MySQL
 &bull; Microsoft Office Tools
@@ -31,7 +29,7 @@ My responsibilities included **creating an inventory management system** and **a
 #### <i class="fa fa-code" aria-hidden="true"></i> [Doodle Search Engine](https://github.com/thesandmanman/doodle)  
 **Objective**: A Google like search engine. Search for web pages and images related to entered keywords in input web prompt.<br/>
 **Tech stack**: PHP, JQuery, Ajax, MySQL.<br/>
-#### <i class="fa fa-code" aria-hidden="true"></i> Essay Brain  
+#### <i class="fa fa-code" aria-hidden="true"></i> [Essay Brain](https://github.com/thesandmanman/essay-brain)   
 **Objective**: A web application to detect plagiarised text either AI generated or from the internet in documents and also evaluate its quality and grade it.<br/>
 **Tech stack**: Python Flask framework, OpenAI GPT-2 Language Model, Copyleaks API, tensorflow.js.<br/>
 #### <i class="fa fa-code" aria-hidden="true"></i> [Activity Tracker](https://github.com/thesandmanman/activity-tracker)  
@@ -44,7 +42,6 @@ I completed my **computer science** undergraduate degreee from **MVJ College of 
 <br/><br/>
 
 ### <i class="fa fa-graduation-cap" aria-hidden="true"></i> Certifications and Courses  
-&bull; Oracle Cloud Infrastructure Foundations 2020 Associate (1Z0-1085-20) <br/>
 &bull; Infosys Campus Connect Foundation Program - Python, RDBMS <br/>
 &bull; Python for Data Science - CognitiveAI <br/>
 &bull; The Complete PHP Full Stack Web Developer Bootcamp
@@ -60,10 +57,7 @@ I completed my **computer science** undergraduate degreee from **MVJ College of 
 
 ### <i class="fa fa-book" aria-hidden="true"></i> Hobbies  
 &bull; Coding productivity apps and posting them on [GitHub](https://github.com/thesandmanman) <br/>
-&bull; Cooking <br/>
-&bull; Collecting books <br/>
-&bull; I like many genres of music <br/>
-&bull; [Manga and anime](https://myanimelist.net/profile/SandmanMan) 
+&bull; Listening to music <br/>
 <br/><br/>
 
 ### <i class="fa fa-language" aria-hidden="true"></i> Languages known  
